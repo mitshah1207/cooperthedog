@@ -1,3 +1,10 @@
+---
+title: Home
+---
+
+# Cooper the Dog 🐶
+Welcome to the site!
+
 ## Cooper
 {:.no_toc}
 

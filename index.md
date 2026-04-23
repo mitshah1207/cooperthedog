@@ -1,5 +1,6 @@
 ---
-title: Home
+layout: default
+title: Cooper the Dog
 ---
 
 # Cooper the Dog 🐶

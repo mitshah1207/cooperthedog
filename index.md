@@ -7,10 +7,6 @@ title: Cooper the Dog
 Welcome to the site!
 
 ## Cooper
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
 
 # 1. General Information 
 
